@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-  👋 Greetings! Welcome to my homepage! I am ​**Jianxin Yan**, currently a fourth-year undergraduate student majoring in ​**Information Security** at the [School of Cyber Science and Engineering, Wuhan University](https://cse.whu.edu.cn/). I am expected to pursue a Master's degree in the ​**College of Computer Science and Technology at Zhejiang University** starting September 2025.  
+  👋 Greetings! Welcome to my homepage! I am ​**Jianxin Yan**, currently a fourth-year undergraduate student majoring in ​Information Security at the School of Cyber Science and Engineering, **Wuhan University**. I am expected to pursue a Master's degree in the ​**College of Computer Science and Technology at Zhejiang University** starting September 2025.  
 
   Since entering university, I have actively participated in various research projects and academic competitions. I've received several honors including the **National** Scholarship, **NSFOCUS** Scholarship, **Lei Jun** Computer Science Research Practice Fund, National Mathematical Modeling Competition (Second Prize), National Information Security Competition (Third Prize), Computer Design Competition (First Prize in Central South Region), and multiple provincial awards. 
   
@@ -26,7 +26,7 @@ redirect_from:
 
 - *2025.04*: 🎉🎉 I am selected as an **Outstanding Undergraduate Graduate**.  
 - *2024.08*: 🎉🎉 Our project **UnVoiceClone** advanced to the finals and won the **National Third Prize** in the 17th National College Student Information Security Competition (2024)!  
-- *2024.06*: 🎉🎉 I was awarded the **[Lei Jun Computer Science Innovation and Development Fund (Research & Practice)](https://cse.whu.edu.cn/info/1101/23802.htm)**!  
+- *2024.06*: 🎉🎉 I was awarded the **Lei Jun Computer Science Innovation and Development Fund (Research & Practice)**!  
 - *2024.05*: 🎉🎉 Our project **YinDa Health Guardian** won the **First Prize in the IoT Application Track** at the 17th China Collegiate Computing Competition (Central-South Regional Contest, 2024)!  
 - *2024.03*: 🎉🎉 I received the **NSFOCUS Cybersecurity Scholarship**!  
 - *2023.11*: 🎉🎉 Our work advanced to the national finals and won the **National Second Prize** in the Big Data Analysis Track of the National College Student Mathematical Modeling Contest (Higher Education Society Cup, 2023)!
