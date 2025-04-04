@@ -34,7 +34,7 @@ redirect_from:
 
 # 📝 Publications
 
-- ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models[[Code]](https://github.com/uYanJX/ContextCache) 
+- ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models [[Code]](https://github.com/uYanJX/ContextCache) 
 
   **Jianxin Yan**, Wangze Ni, Lei Chen, Xuemin Lin, Peng Cheng, Zhan Qin, Kui Ren
 
