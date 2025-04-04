@@ -22,11 +22,6 @@ redirect_from:
   I've been involved in projects including but not limited to **Large Language Model efficiency optimization**, Recommendation Systems, and AI security.
 
 
-# 🎓 Education Background  
-
-- **Ranking:** Final recommended comprehensive ranking: **4.1%** (6/146), GPA ranking: **8%** (12/146)  
-- **Average Score:** GPA: **3.86/4.0**, weighted average score: **91.49/100**  
-
 # 🔥 News  
 
 - *2025.04*: 🎉🎉 I am selected as an **Outstanding Undergraduate Graduate**.  
@@ -42,6 +37,12 @@ redirect_from:
 - ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models[[Code]](https://github.com/uYanJX/ContextCache) 
 
   **Jianxin Yan**, Wangze Ni, Lei Chen, Xuemin Lin, Peng Cheng, Zhan Qin, Kui Ren
+
+
+# 🎓 Education Background  
+
+- **Ranking:** Final recommended comprehensive ranking: **4.1%** (6/146), GPA ranking: **8%** (12/146)  
+- **Average Score:** GPA: **3.86/4.0**, weighted average score: **91.49/100**  
 
 
 # 🏆 Competition Awards  
