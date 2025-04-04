@@ -24,22 +24,23 @@ redirect_from:
 
 # 🎓 Education Background  
 
-• **Ranking:** Final recommended comprehensive ranking: **4.1%** (6/146), GPA ranking: **8%** (12/146)  
-• **Average Score:** GPA: **3.86/4.0**, weighted average score: **91.49/100**  
+- **Ranking:** Final recommended comprehensive ranking: **4.1%** (6/146), GPA ranking: **8%** (12/146)  
+- **Average Score:** GPA: **3.86/4.0**, weighted average score: **91.49/100**  
 
 # 🔥 News  
 
-• *2025.04*: 🎉🎉 I am selected as an **Outstanding Undergraduate Graduate**.  
-• *2024.08*: 🎉🎉 Our project **UnVoiceClone** advanced to the finals and won the **National Third Prize** in the 17th National College Student Information Security Competition (2024)!  
-• *2024.06*: 🎉🎉 I was awarded the **[Lei Jun Computer Science Innovation and Development Fund (Research & Practice)](https://cse.whu.edu.cn/info/1101/23802.htm)**!  
-• *2024.05*: 🎉🎉 Our project **YinDa Health Guardian** won the **First Prize in the IoT Application Track** at the 17th China Collegiate Computing Competition (Central-South Regional Contest, 2024)!  
-• *2024.03*: 🎉🎉 I received the **NSFOCUS Cybersecurity Scholarship**!  
-• *2023.11*: 🎉🎉 Our work advanced to the national finals and won the **National Second Prize** in the Big Data Analysis Track of the National College Student Mathematical Modeling Contest (Higher Education Society Cup, 2023)!
+- *2025.04*: 🎉🎉 I am selected as an **Outstanding Undergraduate Graduate**.  
+- *2024.08*: 🎉🎉 Our project **UnVoiceClone** advanced to the finals and won the **National Third Prize** in the 17th National College Student Information Security Competition (2024)!  
+- *2024.06*: 🎉🎉 I was awarded the **[Lei Jun Computer Science Innovation and Development Fund (Research & Practice)](https://cse.whu.edu.cn/info/1101/23802.htm)**!  
+- *2024.05*: 🎉🎉 Our project **YinDa Health Guardian** won the **First Prize in the IoT Application Track** at the 17th China Collegiate Computing Competition (Central-South Regional Contest, 2024)!  
+- *2024.03*: 🎉🎉 I received the **NSFOCUS Cybersecurity Scholarship**!  
+- *2023.11*: 🎉🎉 Our work advanced to the national finals and won the **National Second Prize** in the Big Data Analysis Track of the National College Student Mathematical Modeling Contest (Higher Education Society Cup, 2023)!
 
 
 # 📝 Publications
 
 - ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models[[Code]](https://github.com/uYanJX/ContextCache) 
+
 **Jianxin Yan**, Wangze Ni, Lei Chen, Xuemin Lin, Peng Cheng, Zhan Qin, Kui Ren
 
 
@@ -56,13 +57,13 @@ redirect_from:
 
 # 🎖 Scholarships and Honors  
 
-• *2022.12* **National Scholarship** (Selection Rate: 1%) *National Level* &nbsp;&nbsp;[[Certificate]](..\docs\gj.jpg)  
-• *2024.3* **NSFOCUS Scholarship** (Selection Rate: 3%) *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\lvmeng.pdf)  
-• *2024.6* **Lei Jun Computer Science Research and Practice Fund** *Wuhan University* &nbsp;&nbsp;[[Certificate]](https://cse.whu.edu.cn/info/1101/23802.htm)  
-• *2023.10* Outstanding Student Award (Selection Rate: Top 10% University-wide) *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\sanhao23.jpg)  
-• *2022.10* Outstanding Student Award (Selection Rate: Top 10% University-wide) *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\sanhao22.jpg)  
-• *2023.7* Outstanding Student Cadre Award *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\ganbu.jpg)  
-• *2022.6* Social Activity Activist Award *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\shehui.jpg)
+- *2022.12* **National Scholarship** (Selection Rate: 1%) *National Level* &nbsp;&nbsp;[[Certificate]](..\docs\gj.jpg)  
+- *2024.3* **NSFOCUS Scholarship** (Selection Rate: 3%) *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\lvmeng.pdf)  
+- *2024.6* **Lei Jun Computer Science Research and Practice Fund** *Wuhan University* &nbsp;&nbsp;[[Certificate]](https://cse.whu.edu.cn/info/1101/23802.htm)  
+- *2023.10* Outstanding Student Award (Selection Rate: Top 10% University-wide) *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\sanhao23.jpg)  
+- *2022.10* Outstanding Student Award (Selection Rate: Top 10% University-wide) *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\sanhao22.jpg)  
+- *2023.7* Outstanding Student Cadre Award *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\ganbu.jpg)  
+- *2022.6* Social Activity Activist Award *Wuhan University* &nbsp;&nbsp;[[Certificate]](..\docs\shehui.jpg)
 
 
 <!-- 
