@@ -15,11 +15,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-  👋Greetings! Welcome to my homepage! I am ​**Jianxin Yan**, currently a fourth-year undergraduate student majoring in ​**Information Security** at the [School of Cyber Science and Engineering, Wuhan University](https://cse.whu.edu.cn/). I am expected to pursue a Master's degree in the ​**College of Computer Science and Technology at Zhejiang University** starting September 2025.  
+  👋 Greetings! Welcome to my homepage! I am ​**Jianxin Yan**, currently a fourth-year undergraduate student majoring in ​**Information Security** at the [School of Cyber Science and Engineering, Wuhan University](https://cse.whu.edu.cn/). I am expected to pursue a Master's degree in the ​**College of Computer Science and Technology at Zhejiang University** starting September 2025.  
 
   Since entering university, I have actively participated in various research projects and academic competitions. I've received several honors including the **National** Scholarship, **NSFOCUS** Scholarship, **Lei Jun** Computer Science Research Practice Fund, National Mathematical Modeling Competition (Second Prize), National Information Security Competition (Third Prize), Computer Design Competition (First Prize in Central South Region), and multiple provincial awards. 
   
-  In research, I've been involved in projects including but not limited to **large language model efficiency optimization**, recommendation systems, and AI security.
+  I've been involved in projects including but not limited to **Large Language Model efficiency optimization**, Recommendation Systems, and AI security.
 
 
 # 🎓 Education Background  
@@ -41,7 +41,7 @@ redirect_from:
 
 - ContextCache: Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models[[Code]](https://github.com/uYanJX/ContextCache) 
 
-**Jianxin Yan**, Wangze Ni, Lei Chen, Xuemin Lin, Peng Cheng, Zhan Qin, Kui Ren
+  **Jianxin Yan**, Wangze Ni, Lei Chen, Xuemin Lin, Peng Cheng, Zhan Qin, Kui Ren
 
 
 # 🏆 Competition Awards  
